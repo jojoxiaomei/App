@@ -1,18 +1,18 @@
 <template>
-  <div>
-    <p>App Components</p>
-  </div>
+    <div>
+        <p>Layout App</p>
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: 'Layout',
   data () {
     return {}
   }
 }
 </script>
 
-<style>
+<style lang="less" scoped>
 
 </style>
